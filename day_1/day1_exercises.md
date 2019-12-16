@@ -12,4 +12,6 @@
 8. Semantic markup elements do not affect the structure of your web page, but they provide extra information to search engines and screen readers.  
 9. <nav> contains the navigational blocks for the site, such as the links at the bottom of every webpage.  
 <aside> can contain information that is related to an article but not essential to it.  It can also act as a container for information that is related to the whole page.  
-<header> contains the header of the entire page or the header of individual articles on the page
+<header> contains the header of the entire page or the header of individual articles on the page.  
+
+https://codepen.io/emackinnon1/pen/zYxoKWV
