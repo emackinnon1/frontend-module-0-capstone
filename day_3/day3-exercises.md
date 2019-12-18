@@ -2,7 +2,7 @@
 ## 1.  If you're using an input element in a form, what attribute controls the behavior of that input?  
 The method attribute controls the behavior.  It will either be "get" or "push". Get is used to add the values from the form to the end of the URL specified in the action attribute. The post method sends the data in HTTP headers.  
 ## 2.  What element is used to create a dropdown list?  
-A drop down list can be created with the <select> element, along with the <option> elements to denote what choices you would like the user to have.  
+A drop down list can be created with the `select` element, along with the `option` elements to denote what choices you would like the user to have.  
 ## 3.  If you're using an input element to send form data to a server, what should the `type` attribute be set to?  
 The type should be set to "submit" in this instance.  
 ## 4.  What element is used to group similar form items together?  
