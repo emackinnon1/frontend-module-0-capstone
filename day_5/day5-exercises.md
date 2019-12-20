@@ -21,4 +21,4 @@ numbers would then return:
 ## 5.  What is the difference between an expression and a statement?  
 A statement is an individual instruction or step that the computer should follow. An expression results in a single value. It can either be a variable that just assigned a single value or a variable that uses two or more other values to assign its own value.  
 ## 6.  What are three types of operators and how are they used?  
-Logical operators return expressions and result in true or false. Comparison values also return true or false when comparing two values. String operators combine two strings.
+Logical operators return expressions and result in true or false. Comparison values also return true or false when comparing two values. String operators concatenate two strings.
