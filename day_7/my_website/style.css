@@ -64,3 +64,7 @@ img {
 .col_padding {
   padding-bottom: 5px;
 }
+
+.fall {
+  opacity: 0;
+}
