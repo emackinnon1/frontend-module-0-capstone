@@ -1,6 +1,6 @@
-const falls = document.querySelectorAll('.fall')
+const clickers = document.querySelectorAll('.clickers')
 
-falls.forEach(item => {
+clickers.forEach(item => {
   item.addEventListener('click', (e) => {
     e.target.style.opacity = '1';
   });
