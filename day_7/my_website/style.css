@@ -2,7 +2,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  color: #F3F3F3;
+  color: white;
   background-color: #676767;
   font-size: 18px;
 }
@@ -26,17 +26,81 @@ h1 {
   padding-bottom: 10px;
 }
 
-.captionParent{
+.captionParent {
   position: relative;
 }
 
 .caption {
   position: absolute;
-  bottom: 4%;
-  left: 2%;
+  top: 50%;
   color: white;
   width: inherit;
-  font-size: 16px;
+  font-size: 18px;
+  text-align: center;
+}
+
+.captionSkinny {
+  position: absolute;
+  top: 10%;
+  color: white;
+  width: inherit;
+  font-size: 18px;
+  text-align: center;
+}
+
+.captionRun {
+  position: absolute;
+  bottom: 10%;
+  color: black;
+  width: inherit;
+  font-size: 18px;
+  text-align: center;
+}
+
+.captionSkills {
+  position: absolute;
+  bottom: 10%;
+  color: white;
+  width: inherit;
+  font-size: 18px;
+  text-align: center;
+  padding-left: 5px;
+}
+
+.captionPlants {
+  position: absolute;
+  top: 15%;
+  color: white;
+  width: inherit;
+  font-size: 18px;
+  text-align: center;
+}
+
+.captionGerman {
+  position: absolute;
+  top: 20%;
+  color: white;
+  width: inherit;
+  font-size: 18px;
+  text-align: center;
+}
+
+.captionAltSoccer {
+  position: absolute;
+  top: 25%;
+  color: white;
+  width: inherit;
+  font-size: 18px;
+  text-align: center;
+}
+
+.captionAltWhale {
+  position: absolute;
+  top: 40%;
+  color: black;
+  width: inherit;
+  font-size: 18px;
+  text-align: center;
 }
 
 .hobby-pics-container {
@@ -69,6 +133,10 @@ img {
   margin-top: 20px;
 }
 
+.hobbies {
+  opacity: 0;
+}
+
 .clickers {
   opacity: 0;
   border-radius: 20px;
@@ -94,4 +162,9 @@ img {
   padding-top: 15px;
   margin-top: 15px;
   border-top: 2px double #F3F3F3;
+}
+
+.skinny {
+  float: right;
+  margin-top: 20px;
 }

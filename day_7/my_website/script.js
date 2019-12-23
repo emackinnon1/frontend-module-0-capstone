@@ -5,3 +5,11 @@ clickers.forEach(item => {
     e.target.style.opacity = '1';
   });
 });
+
+const hobbies = document.querySelectorAll('.hobbies')
+
+hobbies.forEach(item => {
+  item.addEventListener('click', (e) => {
+    e.target.style.opacity = '1';
+  });
+});
