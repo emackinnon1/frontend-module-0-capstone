@@ -58,6 +58,15 @@ h1 {
   text-align: center;
 }
 
+.captionDrawing {
+  position: absolute;
+  top: 85%;
+  color: white;
+  width: inherit;
+  font-size: 18px;
+  text-align: center;
+}
+
 .captionSkinny {
   position: absolute;
   top: 10%;
