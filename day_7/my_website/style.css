@@ -226,7 +226,11 @@ img {
   text-align: ;
 }
 
-.drugsComment {
+.fakeDrugsComment {
   margin-top: 20px;
   text-align: center;
+}
+
+.fakeDrugs {
+  margin-top: 35px;
 }
